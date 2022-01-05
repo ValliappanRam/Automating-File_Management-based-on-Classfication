@@ -1,0 +1,15 @@
+C:\Users\VALLIAPPAN\Downloads
+s
+mp3:D:\Music
+pdf:D:\all_pdf 
+exe:D:\software
+doc:D:\all_docs
+docx:D:\all_docs
+txt:D:\all_txt
+csv:D:\all_csv
+xlsx:D:\all_excel
+xls:D:\all_excel
+jpg:D:\all_images
+png:D:\all_images
+srt:D:\all_srts
+mp4:D:\all_mp4
