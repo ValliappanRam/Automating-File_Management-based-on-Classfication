@@ -17,4 +17,4 @@ One highlight feature about this system is , it automatically creates the folder
 
 **Note:** You can find the app "FMS.exe" in the dist folder in the repository. 
 
-**Note 2:** You have to modify the rules file based on your requirements and Place it follwing location for windows users : C:\Users\"username"
+**Note 2:** You have to modify the rules file based on your requirements and Place it following location for windows users only : C:\Users\"username"
